@@ -1,0 +1,75 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title{
+    height: 70px;
+    position: fixed;
+    color: rgb(14, 88, 193);
+    background-color: rgba(240, 248, 255, 0.85);
+    
+}
+
+h4{
+    color: rgb(59, 59, 59) ;
+}
+
+
+
+.title h1{
+    text-shadow: 2px 2px 0 rgba(89, 89, 89, 0.372);
+    margin: 10px;
+    display: inline-block;
+
+}
+
+.text h2,h3{
+    text-shadow: 2px 2px 0 rgba(89, 89, 89, 0.372);
+}
+
+h4{
+    width: 75%;
+}
+
+.title a{
+    text-decoration: none;
+    color: rgb(14, 88, 193);
+}
+
+.background{
+    width: 100%;
+    height: 600px;
+    background-image: url(images/modern-living-room-with-smart-home-technology-wireless-connectivity-wallmounted-tv-shows-smart-home-icons-connected-devices-wireless-internet_636638-6222.avif);
+    background-size: cover;
+}
+
+.background h1{
+    text-shadow: 2px 2px 0 rgba(89, 89, 89, 0.372);
+    color: aliceblue;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    margin-left: 500px;
+    background-color: rgba(0, 55, 255, 0.577);
+    display: inline-block;
+}
+
+p{
+    width: 75%;
+    color: rgba(66, 66, 66, 0.757);
+}
+
+.background img{
+    width: 150px;
+}
+
+
+.text img{
+    width: 270px;
+    display: inline-block;
+    border: 5;
+}
+
+.title img{
+    width: 50px;
+}
