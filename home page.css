@@ -9,9 +9,9 @@ body {
 
 .title {
     border-radius: 12px;
-    color: rgb(14, 88, 193);
+    color: rgb(0, 106, 255);
     height: 70px;
-    background-color: rgba(163, 163, 163, 0.92);
+    background-color: rgba(203, 203, 203, 0.92);
     display: inline-block;
     position: fixed;
     box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.477);
